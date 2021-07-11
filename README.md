@@ -27,8 +27,7 @@ Here are some ideas to get you started:
     
   - Projects
     - Open Sourced Projects
-      - https://github.com/DeveloperSyuu/mcplugin-webhookpacketlogger
-      - https://github.com/DeveloperSyuu/no-more-spam
+      - https://github.com/DeveloperSyuu/packetlogger
       - Free for ALL!
 
 
