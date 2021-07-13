@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### 😄 Welcome to Syuu's Github!
   - Fun Fact About Me
   
-    - Now im on github! im just tired to register github account.. 😄
+    - Now im on github!
     - Currently im working about minecraft server!
 
 ### 🔭 About Me
