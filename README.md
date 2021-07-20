@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### 😄 Welcome to Syuu's Github!
   - Fun Fact About Me
 
-    - Currently im working on minecraft server!
+    - Currently im working java / php / skript
 
 ### 🔭 About Me
   - Github Stats
@@ -27,6 +27,9 @@ Here are some ideas to get you started:
   - Projects
     - Open Sourced Projects
       - https://github.com/JavaLunar/packetlogger
+      - https://github.com/JavaLunar/sk-into
+      - https://github.com/JavaLunar/sk-staffchat
+      - https://github.com/JavaLunar/testapi
       - Free for ALL!
 
 
