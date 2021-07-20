@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 😄 Welcome to Syuu's Github!
+### 😄 Welcome to Lunar's Github!
   - Fun Fact About Me
 
     - Currently im working java / php / skript
