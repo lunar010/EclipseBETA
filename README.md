@@ -1,1 +1,1 @@
-![Eclipse](https://i.postimg.cc/43qRK48j/Minecraft-Decimation-mod-Zombie-1024x576.jpg)
+![Eclipse](https://i.postimg.cc/GpCTYrHg/2021-08-16-231529.png)
