@@ -7,4 +7,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EclipseBETA&repo=StartnEnd&theme=white)](https://github.com/EclipseBETA/StartnEnd)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EclipseBETA&repo=GBFriends&theme=white)](https://github.com/EclipseBETA/GBFriends)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EclipseBETA&repo=WHT&theme=white)](https://github.com/EclipseBETA/WHT)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EclipseBETA&repo=API&theme=white)](https://github.com/EclipseBETA/API)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EclipseBETA&repo=API&theme=white)](https://github.com/EclipseBETA/API )
