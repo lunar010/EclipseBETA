@@ -1,2 +1,3 @@
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=eclipsebeta" height=auto width=500></img>
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=eclipsebeta" height=auto width=700></img>
+![PRASEOD-'s github stats](https://github-readme-stats.vercel.app/api?username=aaei924&show_icons=true&count_private=true&theme=tokyonight)
+
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=aaei924&theme=tokyonight&layout=compact&langs_count=10)
